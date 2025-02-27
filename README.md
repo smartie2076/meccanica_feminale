@@ -2,7 +2,7 @@
 
 Presentations of the workshop at meccanica feminale
 
-"Energy modelling and energy justice - incompatible concepts?"
+"Energy modelling and energy justice - incompatible concepts?" ([LINK](https://scientifica.de/bildungsangebote/meccanica-feminale/meccanica-feminale-2025/kursuebersicht/energy-system-modelling-and-energy-justice-incompatible-concepts/))
 
 # Contents of this repository
 
@@ -49,6 +49,7 @@ Click on "play" button with correct environment activated, or run oemof example 
 
 - Pycharm (community edition is free): https://www.jetbrains.com/de-de/pycharm/download/
 - Cbc-solver: https://github.com/coin-or/Cbc/releases
+- github Tutorial: https://docs.github.com/de/get-started/start-your-journey/hello-world
 
 - Renewables.ninjas: https://www.renewables.ninja/
 - oemof on github: https://github.com/oemof
